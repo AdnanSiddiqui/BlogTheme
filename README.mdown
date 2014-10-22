@@ -7,7 +7,7 @@ The theme was created for use with [Octopress](http://octopress.org/).
 The theme is for the [Octopress](https://github.com/imathis/octopress) blogging
 system. To install it either
 [download the theme](https://github.com/rastersize/BlogTheme/zipball/master)
-and drop the directory into the `./.themes` directory or add this repository as a
+and drop the directory intto the `./.themes` directory or add this repository as a
 submodule:
 
 ```Shell
